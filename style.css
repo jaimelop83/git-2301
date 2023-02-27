@@ -2,7 +2,7 @@
 body {
     /* your styles here */
     color: #708090; 
-    font-family: 'Emilys Candy'
+    font-family: 'Emilys Candy';
 
   }
   
@@ -12,27 +12,27 @@ body {
   }
   
   .style1 {
-    background-color: #9B9A9A;
+    background-color: #E9C46A;
   }
   
   .style2 {
-    background-color: #9B9A9A;
+    background-color: #F4A261;
   }
   
   .style3 {
-    background-color: #9B9A9A;
+    background-color: #E76F51;
   }
   
   .style4 {
-    background-color: #9B9A9A;
+    background-color: #B2B1CF;
   }
   
   .style5 {
-    background-color: #9B9A9A;
+    background-color: #2A9D8F;
   }
   
   .style6 {
-    background-color: #9B9A9A;
+    background-color: #264653;
   }
   
   /* SETTING THE COLOR OF THE BOX TEXT */
